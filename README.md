@@ -6,3 +6,4 @@ Here's how it works: The game starts by lighting up one button. You press that b
 If you make a mistake by pressing the wrong button or miss the sequence, the game ends. It's simple to understand but gets tougher as the sequences get longer.
 
 It's a fun way to test and improve your memory and concentration skills. The longer you play, the more challenging it becomes!
+link=> https://simongame-123.netlify.app/
